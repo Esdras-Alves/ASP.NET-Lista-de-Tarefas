@@ -10,6 +10,7 @@ Tarefas podem ser adicionadas e podem ser marcadas como completas.
     <li>C#</li>
     <li>.Net</li>
     <li>HTML</li>
+    <li>Bootstrap</li>
     <li>jQuery</li>
     <li>SQL Server</li>
     <li>Entity</li>
